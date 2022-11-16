@@ -1,0 +1,16 @@
+C:\Users\hamil\workspace\csharp\Intro\helloCSharp\bin\Debug\net5.0\helloCSharp.exe
+C:\Users\hamil\workspace\csharp\Intro\helloCSharp\bin\Debug\net5.0\helloCSharp.deps.json
+C:\Users\hamil\workspace\csharp\Intro\helloCSharp\bin\Debug\net5.0\helloCSharp.runtimeconfig.json
+C:\Users\hamil\workspace\csharp\Intro\helloCSharp\bin\Debug\net5.0\helloCSharp.runtimeconfig.dev.json
+C:\Users\hamil\workspace\csharp\Intro\helloCSharp\bin\Debug\net5.0\helloCSharp.dll
+C:\Users\hamil\workspace\csharp\Intro\helloCSharp\bin\Debug\net5.0\ref\helloCSharp.dll
+C:\Users\hamil\workspace\csharp\Intro\helloCSharp\bin\Debug\net5.0\helloCSharp.pdb
+C:\Users\hamil\workspace\csharp\Intro\helloCSharp\obj\Debug\net5.0\helloCSharp.csproj.AssemblyReference.cache
+C:\Users\hamil\workspace\csharp\Intro\helloCSharp\obj\Debug\net5.0\helloCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamil\workspace\csharp\Intro\helloCSharp\obj\Debug\net5.0\helloCSharp.AssemblyInfoInputs.cache
+C:\Users\hamil\workspace\csharp\Intro\helloCSharp\obj\Debug\net5.0\helloCSharp.AssemblyInfo.cs
+C:\Users\hamil\workspace\csharp\Intro\helloCSharp\obj\Debug\net5.0\helloCSharp.csproj.CoreCompileInputs.cache
+C:\Users\hamil\workspace\csharp\Intro\helloCSharp\obj\Debug\net5.0\helloCSharp.dll
+C:\Users\hamil\workspace\csharp\Intro\helloCSharp\obj\Debug\net5.0\ref\helloCSharp.dll
+C:\Users\hamil\workspace\csharp\Intro\helloCSharp\obj\Debug\net5.0\helloCSharp.pdb
+C:\Users\hamil\workspace\csharp\Intro\helloCSharp\obj\Debug\net5.0\helloCSharp.genruntimeconfig.cache
